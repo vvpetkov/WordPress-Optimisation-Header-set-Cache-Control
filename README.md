@@ -13,7 +13,9 @@
 
 * файл : "Code 5" съдържа кода "Code 4", НО с добавка за favicon.ico, която не даде резултат! 
 
-## Ползвайте "Code 3"
+## Сайта нямаше [favicon.ico](https://codex.wordpress.org/Creating_a_Favicon), заложих favicon.ico и теста се оправи 
+
+# Ползвайте "Code 3" 90/100 (A)
 
 Даните за 60 от 100 са дадени за www.mebelisofia.com от www.webpagetest.org
 
