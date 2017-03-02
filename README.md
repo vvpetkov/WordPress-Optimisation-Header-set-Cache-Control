@@ -18,3 +18,6 @@
 # Ползвайте "Code 3" 90/100 (A)
 
 *Данните за 60 от 100 са дадени за www.mebelisofia.com от www.webpagetest.org
+
+![Image](http://mebelisofia.com/webpagetest.jpg)
+
