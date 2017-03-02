@@ -1,6 +1,6 @@
 # WordPress-Optimisation-Header-set-Cache-Control
-# H1 Kод за видеото от урока за оптимизиране на кеша в WordPress!
-[WordPress Оптимизация - 12/15 - Оптимизация на кеширането - как да го направим?] (https://youtu.be/JNcBMFWnQHM?list=PLJFGnkVSSuK9jXq4AZU-9J-EMcqNYMx8c "Видеото в YouTube")
+# Kод за видеото от урока за оптимизиране на кеша в WordPress!
+[WordPress Оптимизация - 12/15 - Оптимизация на кеширането - как да го направим?] (https://youtu.be/JNcBMFWnQHM?list=PLJFGnkVSSuK9jXq4AZU-9J-EMcqNYMx8c  target="_blank" "Видеото в YouTube")
 
 
 Преди да сложа кода, страницата ми се кешираше 60 от 100* (D)
