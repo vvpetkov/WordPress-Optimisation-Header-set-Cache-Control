@@ -13,3 +13,6 @@
 
 
 [link](www.mebelisofia.com){:target="_blank"}
+
+
+This is [a link](http://example.com){:target="_blank"} that opens in a new window.
