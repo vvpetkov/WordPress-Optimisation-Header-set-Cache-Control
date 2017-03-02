@@ -1,5 +1,5 @@
 # Kод за видеото от урока за оптимизиране на кеша в WordPress!
-[WordPress Оптимизация - 12/15 - Оптимизация на кеширането - как да го направим?] (https://youtu.be/JNcBMFWnQHM?list=PLJFGnkVSSuK9jXq4AZU-9J-EMcqNYMx8c){:target="_blank"} ("Видеото в YouTube")
+[WordPress Оптимизация - 12/15 - Оптимизация на кеширането - как да го направим?] (https://youtu.be/JNcBMFWnQHM?list=PLJFGnkVSSuK9jXq4AZU-9J-EMcqNYMx8c)("Видеото в YouTube")
 
 Преди да сложа кода, страницата ми се кешираше 60 от 100* (D)
 
@@ -12,4 +12,4 @@
 Даните за 60 от 100 са дадени за www.mebelisofia.com от www.webpagetest.org
 
 
-
+[link](www.mebelisofia.com){:target="_blank"}
